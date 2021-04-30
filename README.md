@@ -11,6 +11,3 @@ If you do want to get touch, or also you can knock me on :
 <img alt="Facebook" width="26px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />
 </a>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinykishore&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>

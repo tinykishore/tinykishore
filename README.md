@@ -5,7 +5,7 @@
 
 <p>I am interested in Android Operating System Development, Android app development, Machine Learning and Artificial Intelligence.</p>
 
-If you do want to get touch, or also you can knock me on :
+If you do want to get touch, knock me on :
 
 <a target="_blank" href="https://www.facebook.com/tinykishore">
 <img alt="Facebook" width="26px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />
